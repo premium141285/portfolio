@@ -1,0 +1,10 @@
+{
+  "project": "A useful little tool",
+  "builtWith": ["HTML", "CSS", "JavaScript"],
+  "details": {
+    "clean": true,
+    "thoughtful": true
+  },
+  "ready": true,
+  "author": "Ilia"
+}
